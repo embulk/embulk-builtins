@@ -1,0 +1,56 @@
+[submodule "embulk-decoder-bzip2"]
+	path = embulk-decoder-bzip2
+	url = https://github.com/embulk/embulk-decoder-bzip2.git
+	branch = main
+[submodule "embulk-decoder-gzip"]
+	path = embulk-decoder-gzip
+	url = https://github.com/embulk/embulk-decoder-gzip.git
+	branch = main
+[submodule "embulk-encoder-bzip2"]
+	path = embulk-encoder-bzip2
+	url = https://github.com/embulk/embulk-encoder-bzip2.git
+	branch = main
+[submodule "embulk-encoder-gzip"]
+	path = embulk-encoder-gzip
+	url = https://github.com/embulk/embulk-encoder-gzip.git
+	branch = main
+[submodule "embulk-filter-remove_columns"]
+	path = embulk-filter-remove_columns
+	url = https://github.com/embulk/embulk-filter-remove_columns.git
+	branch = main
+[submodule "embulk-filter-rename"]
+	path = embulk-filter-rename
+	url = https://github.com/embulk/embulk-filter-rename.git
+	branch = main
+[submodule "embulk-formatter-csv"]
+	path = embulk-formatter-csv
+	url = https://github.com/embulk/embulk-formatter-csv.git
+	branch = main
+[submodule "embulk-input-config"]
+	path = embulk-input-config
+	url = https://github.com/embulk/embulk-input-config.git
+	branch = main
+[submodule "embulk-input-file"]
+	path = embulk-input-file
+	url = https://github.com/embulk/embulk-input-file.git
+	branch = main
+[submodule "embulk-output-file"]
+	path = embulk-output-file
+	url = https://github.com/embulk/embulk-output-file.git
+	branch = main
+[submodule "embulk-output-null"]
+	path = embulk-output-null
+	url = https://github.com/embulk/embulk-output-null.git
+	branch = main
+[submodule "embulk-output-stdout"]
+	path = embulk-output-stdout
+	url = https://github.com/embulk/embulk-output-stdout.git
+	branch = main
+[submodule "embulk-parser-csv"]
+	path = embulk-parser-csv
+	url = https://github.com/embulk/embulk-parser-csv.git
+	branch = main
+[submodule "embulk-parser-json"]
+	path = embulk-parser-json
+	url = https://github.com/embulk/embulk-parser-json.git
+	branch = main
